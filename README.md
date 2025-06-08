@@ -11,6 +11,7 @@ Once you press Start, all audio files in the list will be processed.
 
 GLHF
 
-Download:
+To install, click the link, download the ZIP file, and extract it to your favourite location on your computer.
 
+Download:
 https://github.com/JanSchulten/AudioBatchConverter/releases/tag/v1.0.0
