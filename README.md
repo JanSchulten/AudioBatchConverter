@@ -15,4 +15,6 @@ GLHF
 2. To install, click the link, download the ZIP file, and extract it to your favourite location on your computer.
 3. Download "ffmpeg-git-full.7z" from https://www.gyan.dev/ffmpeg/builds/
 4. Unzip FFmpeg to C:/ffmpeg (it needs to look like C:\ffmpeg\bin\ffmpeg.exe).
-5. Start Converter
+   ![Screenshot 2025-06-08 144619](https://github.com/user-attachments/assets/05d5a4b8-7156-4cbb-8a90-978bc369e2c6)
+
+6. Start Converter
