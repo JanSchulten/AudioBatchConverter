@@ -11,7 +11,7 @@ Once you press Start, all audio files in the list will be processed.
 
 GLHF
 
-1. Downlaod: https://github.com/JanSchulten/AudioBatchConverter/releases/tag/v1.0.0
+1. Downlaod: https://github.com/JanSchulten/AudioBatchConverter/releases/tag/v1.0.1
 2. To install, click the link, download the ZIP file, and extract it to your favourite location on your computer.
 3. Download "ffmpeg-git-full.7z" from https://www.gyan.dev/ffmpeg/builds/
 4. Unzip FFmpeg to C:/ffmpeg (it needs to look like C:\ffmpeg\bin\ffmpeg.exe).
