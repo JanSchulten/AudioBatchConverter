@@ -10,3 +10,7 @@ You can change your output folder with the Change button.
 Once you press Start, all audio files in the list will be processed.
 
 GLHF
+
+Download:
+
+https://github.com/JanSchulten/AudioBatchConverter/releases/tag/v1.0.0
