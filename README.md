@@ -14,3 +14,5 @@ GLHF
 1. Download: https://github.com/JanSchulten/AudioBatchConverter/releases/tag/v1.0.1
 2. To install, click the link, download the ZIP file, and extract it to your favourite location on your computer.
 3. Start Converter
+
+![Screenshot 2025-06-08 141101](https://github.com/user-attachments/assets/61f8408b-46c2-4f8d-a0f5-5ff2bbd73a0c)
