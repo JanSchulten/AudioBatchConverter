@@ -1,11 +1,11 @@
 # AudioBatchConverter
 
 This is a free audio converter that can quickly pitch audio files up or down in batches.
-It was originally designed to address the storage limitations of certain samplers (such as the TE KOII).
+It was originally designed to address the storage limitations of certain samplers (such as the KO-II).
 
 The program allows you to load entire folders (or single samples), set the speed, bitrate, sample rate, stereo/mono mode, and output format.
 
-**Speed is varispeed (tape/sampler style):** it couples speed and pitch. `x2.0` plays twice as fast **and** one octave higher; `x0.5` is half speed and an octave lower; `x1.0` leaves the sound unchanged.
+**Speed is varispeed (tape/sampler style):** it couples speed and pitch. `x2.0` plays twice as fast and one octave higher; `x0.5` is half speed and an octave lower; `x1.0` leaves the sound unchanged.
 
 To load files, simply drag and drop a folder or single audio files into the main window, or use the Input Folder button.
 You can change your output folder with the Change button.
