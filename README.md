@@ -61,8 +61,10 @@ without any separate ffmpeg install.
 
 ## Download
 
-1. Download: https://github.com/JanSchulten/AudioBatchConverter/releases/tag/v1.0.1
-2. To install, click the link, download the ZIP file, and extract it to your favourite location on your computer.
-3. Start Converter
+Latest release: **https://github.com/JanSchulten/AudioBatchConverter/releases/latest**
+
+1. Download the Windows 64-bit ZIP (the `…-win64.zip` asset) from the latest release.
+2. Extract the ZIP anywhere on your computer.
+3. Run **`SampleTool.exe`** inside the extracted `SampleTool` folder — ffmpeg is bundled, no separate install needed.
 
 ![Screenshot 2025-06-08 141101](https://github.com/user-attacchments/assets/61f8408b-46c2-4f8d-a0f5-5ff2bbd73a0c)
