@@ -1,0 +1,14 @@
+# PyInstaller build output
+build/
+dist/
+
+# Bundled ffmpeg binaries (~240 MB) — fetched separately, not committed.
+# See README "Running / building from source" for how to obtain them.
+ffmpeg/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local scratch
+_smoke_*.py

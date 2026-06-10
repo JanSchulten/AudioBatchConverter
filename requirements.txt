@@ -1,0 +1,5 @@
+PySide6
+pydub
+# pydub needs the stdlib 'audioop' module, which was removed in Python 3.13.
+# audioop-lts provides it again on 3.13+.
+audioop-lts; python_version >= "3.13"
