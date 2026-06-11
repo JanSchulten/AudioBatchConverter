@@ -1,5 +1,7 @@
 # AudioBatchConverter
 
+<img width="1560" height="942" alt="Screenshot 2026-06-11 091617" src="https://github.com/user-attachments/assets/1f7b4ac7-8ea7-47c6-8a21-60b651c65fed" />
+
 This is a free audio converter that can quickly pitch audio files up or down in batches.
 It was originally designed to address the storage limitations of certain samplers (such as the KO-II).
 
